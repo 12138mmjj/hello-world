@@ -14,4 +14,3 @@ temp[i]=src[i];
 temp[len]='\0';
 return temp;
 }
-
