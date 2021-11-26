@@ -11,7 +11,7 @@ for(int i=0;i<len;i++)
 {
 temp[i]=src[i];
 }
-temp[len]='\0';
+temp[len]='\0';//最后一位放'\0'
 return temp;
 }
 
